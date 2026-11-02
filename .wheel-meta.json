@@ -1,0 +1,22 @@
+{
+  "wheel_id": 664,
+  "structure": "umbrella",
+  "slug": "theseocompanymelbourne-com-104",
+  "project": "seo-services-melbourne-beginner-guide-f9c64053ca3b2e271f5d8e1f6",
+  "parent_t1_ref": "theseocompanymelbourne-com-151",
+  "node_role": "feeder",
+  "money_target": "theseocompanymelbourne.com.au",
+  "primary_kw": "seo services melbourne beginner guide",
+  "intended_url": "http://seo-services-melbourne-beginner-guide-f9c64053ca3b2e271f5d8e1f6.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "f980ab1cab1e4fc6",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/seo-services-melbourne-pros-and-cons-4c20a0f0c2fef4f23b9244fb09/",
+      "anchor": "Seo Services Melbourne Pros and Cons: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
